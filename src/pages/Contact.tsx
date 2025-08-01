@@ -1,4 +1,3 @@
-
 import React from "react";
 import Layout from "@/components/Layout";
 import { Card } from "@/components/ui/card";
@@ -111,7 +110,7 @@ const Contact = () => {
                 </div>
                 <div className="w-full h-96">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.325737934488!2d-46.87683948535278!3d-23.514006784699305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ceff07b1637c3b%3A0xba28b52b5e81bb06!2sR.%20Adelino%20Cardana%2C%20293%20-%20Bethaville%2C%20Barueri%20-%20SP%2C%2006401-147!5e0!3m2!1spt-BR!2sbr!4v1733162800000!5m2!1spt-BR!2sbr"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.3899471442143!2d-46.8710395!3d-23.5070971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf03da5cea889f:0x676751d946af7566!2sImporta%C3%A7%C3%A3o+Parts+Pecas+Veiculos+Premium!5e0!3m2!1spt-BR!2sbr!4v1640995200000!5m2!1spt-BR!2sbr"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
