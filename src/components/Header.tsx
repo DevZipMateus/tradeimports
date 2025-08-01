@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import { Menu, Phone, X } from "lucide-react";
+import { Menu, Phone, X, Youtube } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Header = () => {
@@ -36,6 +36,7 @@ const Header = () => {
                 +55 (11) 4198-6237
               </a>
             </div>
+            
             <a 
               href="https://wa.me/5511983034915" 
               target="_blank"
@@ -47,6 +48,16 @@ const Header = () => {
                 <path d="M20.52 3.449a12.532 12.532 0 00-3.566-2.314 12.54 12.54 0 00-4.629-.9C5.36.247 0 5.608 0 12.068 0 14.141.846 16.145 2.45 17.75h.002L0 24l6.398-2.49a12.062 12.062 0 005.208 1.164h.004c6.966 0 12.33-5.354 12.335-11.91a12.58 12.58 0 00-3.425-9.065zm-8.03 18.44h-.3a9.873 9.873 0 01-5.031-1.378l-.365-.214-3.75 1.459 1.485-3.687-.235-.374A9.88 9.88 0 013.11 12.077c0-5.446 4.433-9.879 9.886-9.879a9.866 9.866 0 017.021 2.911 9.88 9.88 0 012.891 7.022c-.003 5.446-4.436 9.878-9.885 9.878z" />
               </svg>
               <span className="text-xs font-medium">WhatsApp</span>
+            </a>
+
+            <a 
+              href="https://youtube.com/@tradeimports?si=jmf9rLYPY26-JGyz" 
+              target="_blank"
+              rel="noopener noreferrer" 
+              className="flex items-center gap-2 bg-red-600 text-white px-3 py-1 rounded-full hover:bg-red-700 transition-colors text-sm animate-pulse"
+            >
+              <Youtube size={16} />
+              <span className="text-xs font-medium">YouTube</span>
             </a>
           </div>
           
@@ -115,6 +126,16 @@ const Header = () => {
                     <path d="M20.52 3.449a12.532 12.532 0 00-3.566-2.314 12.54 12.54 0 00-4.629-.9C5.36.247 0 5.608 0 12.068 0 14.141.846 16.145 2.45 17.75h.002L0 24l6.398-2.49a12.062 12.062 0 005.208 1.164h.004c6.966 0 12.33-5.354 12.335-11.91a12.58 12.58 0 00-3.425-9.065zm-8.03 18.44h-.3a9.873 9.873 0 01-5.031-1.378l-.365-.214-3.75 1.459 1.485-3.687-.235-.374A9.88 9.88 0 013.11 12.077c0-5.446 4.433-9.879 9.886-9.879a9.866 9.866 0 017.021 2.911 9.88 9.88 0 012.891 7.022c-.003 5.446-4.436 9.878-9.885 9.878z" />
                   </svg>
                   <span className="text-xs font-medium">WhatsApp</span>
+                </a>
+
+                <a 
+                  href="https://youtube.com/@tradeimports?si=jmf9rLYPY26-JGyz" 
+                  target="_blank"
+                  rel="noopener noreferrer" 
+                  className="flex items-center gap-2 bg-red-600 text-white px-3 py-1.5 rounded-full hover:bg-red-700 transition-colors w-fit animate-pulse"
+                >
+                  <Youtube size={16} />
+                  <span className="text-xs font-medium">YouTube</span>
                 </a>
               </div>
             </nav>

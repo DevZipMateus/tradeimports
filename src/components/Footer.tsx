@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Phone, MapPin, Mail } from "lucide-react";
+import { Phone, MapPin, Mail, Youtube } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -23,6 +23,15 @@ const Footer = () => {
               Especialista em importação de peças para veículos de luxo, com mais de 20 anos de experiência no mercado.
             </p>
             <div className="flex space-x-4">
+              <a 
+                href="https://youtube.com/@tradeimports?si=jmf9rLYPY26-JGyz" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-red-500 hover:text-red-400 transition-colors"
+                title="Nosso canal no YouTube"
+              >
+                <Youtube className="w-6 h-6" />
+              </a>
               <a href="#" className="text-usasilver hover:text-usablue transition-colors">
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path d="M22 12.07c0-5.52-4.48-10-10-10s-10 4.48-10 10c0 5 3.66 9.13 8.44 9.88v-6.99H7.9v-2.89h2.54V9.85c0-2.51 1.49-3.89 3.78-3.89 1.09 0 2.23.19 2.23.19v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.45 2.89h-2.33v6.99C18.34 21.2 22 17.06 22 12.07z" />
