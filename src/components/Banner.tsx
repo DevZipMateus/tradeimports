@@ -53,10 +53,12 @@ const Banner = () => {
       <div className="container mx-auto px-4 py-16 md:py-24 lg:py-32 relative z-20 max-w-full">
         <div className="max-w-4xl">
           <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white mb-6 leading-tight">
-            Especialista em Peças para Veículos de Luxo Importados
+            Peças Originais BMW, Mercedes, Porsche - Autopeças Importadas São Paulo
           </h1>
           <p className="text-lg md:text-xl text-usasilver mb-8 max-w-3xl">
-            Há mais de 20 anos fornecendo peças de alta qualidade para as principais marcas automotivas premium do mercado.
+            Há mais de 20 anos fornecendo <strong>peças originais BMW Brasil</strong>, <strong>autopeças Mercedes-Benz importadas</strong> e 
+            <strong>peças Porsche originais</strong>. Especialistas em <strong>importação autopeças luxo</strong> com peças OEM genuínas 
+            direto da Alemanha e Estados Unidos.
           </p>
           <div className="flex flex-col sm:flex-row flex-wrap gap-4">
             <Button 

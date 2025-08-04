@@ -5,7 +5,7 @@ const OurHistory = () => {
   return (
     <section id="our-history" className="py-16 bg-white">
       <div className="container mx-auto px-4">
-        <h2 className="section-title mb-8">Nossa História</h2>
+        <h2 className="section-title mb-8">Nossa História - Especialistas em Autopeças Importadas</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Card 1 */}
@@ -50,7 +50,10 @@ const OurHistory = () => {
         
         <div className="mt-12 text-center">
           <p className="text-lg text-gray-700">
-            Na Trade Imports, nossa história é construída sobre a paixão por automóveis de luxo e a busca incessante pela excelência.
+            Na Trade Imports, nossa história é construída sobre a paixão por automóveis de luxo e a busca incessante pela excelência. 
+            Somos especialistas em <strong>peças originais BMW, Mercedes-Benz, Porsche e Audi</strong>, oferecendo 
+            <strong>autopeças importadas genuínas OEM</strong> com mais de 20 anos de experiência no mercado de 
+            <strong>importação de autopeças para carros de luxo</strong> em São Paulo.
           </p>
         </div>
       </div>

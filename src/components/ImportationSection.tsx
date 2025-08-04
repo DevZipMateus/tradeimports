@@ -20,11 +20,12 @@ const ImportationSection = () => {
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold mb-6 text-white relative 
                      after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-16 after:h-1 after:bg-usared
                      pb-3">
-            Importação
+            Importação Autopeças - Direto da Alemanha e Estados Unidos
           </h2>
           
           <p className="text-xl mb-8 text-gray-200">
-            Suas cargas aéreas e marítimas podem ser enviadas para qualquer lugar do mundo.
+            <strong>Importação autopeças luxo</strong> - Suas cargas aéreas e marítimas de <strong>peças originais BMW, 
+            Mercedes-Benz, Porsche</strong> podem ser enviadas para qualquer lugar do mundo com segurança e agilidade.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">

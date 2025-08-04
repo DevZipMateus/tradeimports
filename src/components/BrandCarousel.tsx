@@ -52,7 +52,7 @@ const BrandCarousel = () => {
   return (
     <section className="py-12 bg-white">
       <div className="container mx-auto px-4">
-        <h2 className="section-title mb-8">Marcas Parceiras</h2>
+        <h2 className="section-title mb-8">Marcas Parceiras - Peças Originais BMW, Mercedes, Porsche e Mais</h2>
         
         <div className="relative px-10">
           <Carousel
@@ -76,9 +76,9 @@ const BrandCarousel = () => {
                     className="block bg-white rounded-lg p-4 h-full hover:bg-gray-50 transition-colors duration-300 group"
                   >
                     <div className="flex flex-col items-center justify-center h-full">
-                      <img 
+                       <img 
                         src={brand.logo} 
-                        alt={`${brand.name} logo`} 
+                        alt={`Peças originais ${brand.name} - Autopeças importadas genuínas OEM`} 
                         className="h-16 md:h-20 object-contain transition-transform duration-300 group-hover:scale-110"
                       />
                       <div className="mt-3 flex items-center opacity-0 group-hover:opacity-100 transition-opacity text-xs font-medium text-gray-600">

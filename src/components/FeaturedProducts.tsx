@@ -41,7 +41,7 @@ const FeaturedProducts = () => {
   return (
     <section id="featured-products" className="py-16 bg-gray-50">
       <div className="container mx-auto px-4">
-        <h2 className="section-title mb-8">Produtos em Destaque</h2>
+        <h2 className="section-title mb-8">Autopeças Importadas em Destaque - Peças OEM Originais</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {products.map((product) => (
             <Card key={product.id} className="bg-white shadow-md hover:shadow-lg transition-shadow duration-300">
@@ -52,7 +52,7 @@ const FeaturedProducts = () => {
               <CardContent className="p-4">
                 <img
                   src={product.image}
-                  alt={product.name}
+                  alt={`${product.name} - Peça original importada ${product.category.toLowerCase()}`}
                   className="w-full h-48 object-cover rounded-md mb-4"
                 />
                 <p className="text-sm text-gray-700 mb-4">{product.description}</p>
