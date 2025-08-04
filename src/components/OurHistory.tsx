@@ -52,8 +52,8 @@ const OurHistory = () => {
           <p className="text-lg text-gray-700">
             Na Trade Imports, nossa história é construída sobre a paixão por automóveis de luxo e a busca incessante pela excelência. 
             Somos especialistas em <strong>peças originais BMW, Mercedes-Benz, Porsche e Audi</strong>, oferecendo 
-            <strong>autopeças importadas genuínas OEM</strong> com mais de 20 anos de experiência no mercado de 
-            <strong>importação de autopeças para carros de luxo</strong> em São Paulo.
+            <strong> autopeças importadas genuínas OEM</strong> com mais de 20 anos de experiência no mercado de 
+            <strong> importação de autopeças para carros de luxo</strong> em São Paulo.
           </p>
         </div>
       </div>
