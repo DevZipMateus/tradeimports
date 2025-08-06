@@ -57,7 +57,7 @@ const Banner = () => {
           </h1>
           <p className="text-lg md:text-xl text-usasilver mb-8 max-w-3xl">
             Há mais de 20 anos fornecendo <strong>peças originais BMW Brasil</strong>, <strong>autopeças Mercedes-Benz importadas</strong> e 
-            <strong>peças Porsche originais</strong>. Especialistas em <strong>importação autopeças luxo</strong> com peças OEM genuínas 
+            <strong> peças Porsche originais</strong>. Especialistas em <strong>importação autopeças luxo</strong> com peças OEM genuínas 
             direto da Alemanha e Estados Unidos.
           </p>
           <div className="flex flex-col sm:flex-row flex-wrap gap-4">
