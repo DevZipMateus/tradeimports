@@ -84,43 +84,21 @@ const Banner = () => {
             </a>
           </div>
           
-          <div className="mt-12 space-y-6">
-            {/* Luxury car brands */}
-            <div>
-              <h3 className="text-white/80 text-sm font-medium mb-3">Peças Automotivas Importadas</h3>
-              <div className="flex flex-wrap gap-3 lg:gap-4">
-                {[
-                  'BMW', 'Mercedes', 'Porsche', 'Audi', 'Land Rover',
-                  'Ferrari', 'Lamborghini', 'Maserati', 'Bentley', 'Jaguar',
-                  'McLaren', 'Aston Martin', 'Bugatti', 'Rolls-Royce'
-                ].map((brand) => (
-                  <div 
-                    key={brand} 
-                    className="bg-white/20 backdrop-blur-sm px-3 py-2 lg:px-4 lg:py-2 rounded-lg text-white font-medium text-sm transition-transform hover:scale-105"
-                  >
-                    {brand}
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            {/* Maritime parts */}
-            <div>
-              <h3 className="text-white/80 text-sm font-medium mb-3">Peças Marítimas Importadas</h3>
-              <div className="flex flex-wrap gap-3 lg:gap-4">
-                {[
-                  'Caterpillar Marine', 'Volvo Penta', 'MAN Marine', 'MTU Detroit',
-                  'Cummins Marine', 'Yanmar Marine', 'Perkins Marine', 'John Deere Marine',
-                  'Mercruiser', 'Yamaha Marine', 'Honda Marine', 'Suzuki Marine'
-                ].map((brand) => (
-                  <div 
-                    key={brand} 
-                    className="bg-blue-500/20 backdrop-blur-sm px-3 py-2 lg:px-4 lg:py-2 rounded-lg text-white font-medium text-sm transition-transform hover:scale-105 border border-blue-400/30"
-                  >
-                    {brand}
-                  </div>
-                ))}
-              </div>
+          <div className="mt-12 flex flex-wrap gap-4 lg:gap-6">
+            {/* Expanded luxury car brand logos */}
+            <div className="flex flex-wrap gap-3 lg:gap-4">
+              {[
+                'BMW', 'Mercedes', 'Porsche', 'Audi', 'Land Rover',
+                'Ferrari', 'Lamborghini', 'Maserati', 'Bentley', 'Jaguar',
+                'McLaren', 'Aston Martin', 'Bugatti', 'Rolls-Royce'
+              ].map((brand) => (
+                <div 
+                  key={brand} 
+                  className="bg-white/20 backdrop-blur-sm px-3 py-2 lg:px-4 lg:py-2 rounded-lg text-white font-medium text-sm transition-transform hover:scale-105"
+                >
+                  {brand}
+                </div>
+              ))}
             </div>
           </div>
         </div>
