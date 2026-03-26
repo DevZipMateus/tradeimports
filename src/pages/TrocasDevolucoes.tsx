@@ -57,7 +57,7 @@ const TrocasDevolucoes = () => {
               </h2>
             </div>
             <p className="text-gray-600 leading-relaxed">
-              O cliente poderá solicitar troca ou devolução pelo nosso e-mail <strong>contato@krnimports.com.br</strong>.
+              O cliente poderá solicitar troca ou devolução pelo nosso e-mail <strong>contato@tradeimports.com.br</strong>.
             </p>
           </Card>
 
