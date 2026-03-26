@@ -23,17 +23,17 @@ const Header = () => {
               <img 
                 src="/lovable-uploads/krn-logo-header.png"
                 alt="KRN Imports Logo" 
-                className="h-16 md:h-20 lg:h-24" 
+                className="h-12 md:h-14 lg:h-16" 
               />
             </Link>
           </div>
           
           {/* Contact Info - Hidden on mobile */}
-          <div className="hidden md:flex items-center gap-4 lg:gap-6">
-            <div className="flex items-center gap-2">
-              <Phone size={18} className="text-usablue" />
-              <a href="tel:+551141986237" className="text-sm hover:text-usablue transition-colors">
-                +55 (11) 4198-6237
+          <div className="hidden md:flex items-center gap-3 lg:gap-4">
+            <div className="flex items-center gap-1.5">
+              <Phone size={16} className="text-usablue flex-shrink-0" />
+              <a href="tel:+551141986237" className="text-xs lg:text-sm hover:text-usablue transition-colors whitespace-nowrap">
+                (11) 4198-6237
               </a>
             </div>
             
@@ -62,10 +62,10 @@ const Header = () => {
           </div>
           
           {/* Desktop Navigation - Hidden on mobile */}
-          <nav className="hidden lg:flex items-center space-x-4 xl:space-x-6">
-            <Link to="/" className="nav-link">Home</Link>
-            <Link to="/sobre-nos" className="nav-link">Sobre Nós</Link>
-            <Link to="/importacao" className="nav-link">Importação</Link>
+          <nav className="hidden lg:flex items-center space-x-2 xl:space-x-4">
+            <Link to="/" className="nav-link whitespace-nowrap">Home</Link>
+            <Link to="/sobre-nos" className="nav-link whitespace-nowrap">Sobre Nós</Link>
+            <Link to="/importacao" className="nav-link whitespace-nowrap">Importação</Link>
             <button 
               onClick={() => scrollToSection('featured-products')} 
               className="nav-link bg-transparent border-none cursor-pointer"
