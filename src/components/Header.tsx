@@ -68,13 +68,13 @@ const Header = () => {
             <Link to="/importacao" className="nav-link whitespace-nowrap">Importação</Link>
             <button 
               onClick={() => scrollToSection('featured-products')} 
-              className="nav-link bg-transparent border-none cursor-pointer"
+              className="nav-link bg-transparent border-none cursor-pointer whitespace-nowrap"
             >
               Produtos
             </button>
-            <Link to="/clientes" className="nav-link">Clientes</Link>
-            <Link to="/catalogos" className="nav-link">Catálogos</Link>
-            <Link to="/contato" className="nav-link">Contato</Link>
+            <Link to="/clientes" className="nav-link whitespace-nowrap">Clientes</Link>
+            <Link to="/catalogos" className="nav-link whitespace-nowrap">Catálogos</Link>
+            <Link to="/contato" className="nav-link whitespace-nowrap">Contato</Link>
           </nav>
           
           {/* Mobile Menu Button */}
