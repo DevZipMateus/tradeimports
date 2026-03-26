@@ -49,7 +49,7 @@ const Import = () => {
                 A importação de autopeças é uma operação que envolve diversos procedimentos, desde a seleção de fornecedores confiáveis e que oferecem os melhores preços e condições de pagamento até a entrega das mercadorias aos clientes que fizeram os pedidos. Neste tipo de negócio, planejamento estratégico é fundamental para evitar embaraços perante a Receita Federal.
               </p>
               <p>
-                Referência no mercado, a Trade Imports é uma importadora de peças automotivas reconhecida pela qualidade de atendimento. Líder no segmento de autopeças de importados, a empresa tem negócios no Brasil, Alemanha, Estados Unidos e Turquia.
+                Referência no mercado, a KRN Imports é uma importadora de peças automotivas reconhecida pela qualidade de atendimento. Líder no segmento de autopeças de importados, a empresa tem negócios no Brasil, Alemanha, Estados Unidos e Turquia.
               </p>
             </div>
             
@@ -74,20 +74,20 @@ const Import = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
               <div className="bg-white/5 backdrop-blur-sm p-6 rounded-lg border border-white/10 hover:border-white/20 transition-all">
                 <p className="text-gray-200">
-                  A Trade Imports tem 20 anos de experiência como importadora de peças automotivas. O know-how acumulado, ao longo desse tempo, e a qualificação contínua da equipe de colaboradores garantem eficiência, agilidade e segurança no processo de importação de peças automotivas.
+                  A KRN Imports tem 20 anos de experiência como importadora de peças automotivas. O know-how acumulado, ao longo desse tempo, e a qualificação contínua da equipe de colaboradores garantem eficiência, agilidade e segurança no processo de importação de peças automotivas.
                 </p>
               </div>
               
               <div className="bg-white/5 backdrop-blur-sm p-6 rounded-lg border border-white/10 hover:border-white/20 transition-all">
                 <p className="text-gray-200">
-                  Seja qual for o meio de transporte – aéreo ou marítimo – a Trade Imports está preparada para elaborar a documentação necessária para o despacho da carga. Os procedimentos são eletrônicos, o que garante mais velocidade aos trâmites burocráticos.
+                  Seja qual for o meio de transporte – aéreo ou marítimo – a KRN Imports está preparada para elaborar a documentação necessária para o despacho da carga. Os procedimentos são eletrônicos, o que garante mais velocidade aos trâmites burocráticos.
                 </p>
               </div>
             </div>
             
             <div className="bg-white/5 backdrop-blur-sm p-6 rounded-lg border border-white/10 hover:border-white/20 transition-all">
               <p className="text-gray-200">
-                A empresa oferece consultoria aduaneira a empresários que atuam no mercado de veículos importados, além de realizar o desembaraço dos processos de importação, atendendo, com rapidez os pedidos urgentes de reposição de autopeças oriundas do exterior. Além da importação de peças, a Trade Imports também presta consultoria para a exportação de autopeças.
+                A empresa oferece consultoria aduaneira a empresários que atuam no mercado de veículos importados, além de realizar o desembaraço dos processos de importação, atendendo, com rapidez os pedidos urgentes de reposição de autopeças oriundas do exterior. Além da importação de peças, a KRN Imports também presta consultoria para a exportação de autopeças.
               </p>
             </div>
           </div>
@@ -104,7 +104,7 @@ const Import = () => {
                 </div>
                 <h3 className="text-xl font-medium mb-3 text-white">Entrega Rápida</h3>
                 <p className="text-gray-300">
-                  Graças às excelentes parcerias comerciais e ao planejamento logístico, a Trade Imports recebe mercadorias, no Brasil, em 10 ou 15 dias.
+                  Graças às excelentes parcerias comerciais e ao planejamento logístico, a KRN Imports recebe mercadorias, no Brasil, em 10 ou 15 dias.
                 </p>
               </div>
               
@@ -131,7 +131,7 @@ const Import = () => {
             
             <div className="space-y-6 text-gray-200">
               <p>
-                Como a Trade Imports possui estoque de peças para reposição, pedidos oriundos das principais capitais brasileiras são despachados no dia seguinte. A disponibilidade de peças automotivas importadas e a rapidez na entrega contribuem para a satisfação do mercado consumidor.
+                Como a KRN Imports possui estoque de peças para reposição, pedidos oriundos das principais capitais brasileiras são despachados no dia seguinte. A disponibilidade de peças automotivas importadas e a rapidez na entrega contribuem para a satisfação do mercado consumidor.
               </p>
               
               <p>
@@ -139,7 +139,7 @@ const Import = () => {
               </p>
               
               <p>
-                Com sede em Alphaville (Barueri/SP), a Trade Imports é uma importadora de peças automotivas completa, com capacidade para atender pedidos, no atacado ou varejo, das principais marcas de veículos, tais como Audi, Volvo, Mercedes-Benz, Ford, GMC, Jeep, BMW, Cadillac, Corvette, Porche, Land Rover, Jaguar, Dodge, Chrysler e outras.
+                Com sede em Alphaville (Barueri/SP), a KRN Imports é uma importadora de peças automotivas completa, com capacidade para atender pedidos, no atacado ou varejo, das principais marcas de veículos, tais como Audi, Volvo, Mercedes-Benz, Ford, GMC, Jeep, BMW, Cadillac, Corvette, Porche, Land Rover, Jaguar, Dodge, Chrysler e outras.
               </p>
             </div>
           </div>

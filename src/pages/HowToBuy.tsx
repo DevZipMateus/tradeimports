@@ -13,12 +13,12 @@ const HowToBuy = () => {
           <div className="mb-12 text-center">
             <h1 className="section-title">Como Importar Peças De Carros?</h1>
             <p className="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
-              A Trade Imports está no mercado há 20 anos, sendo referência no nicho de importação de peças de carros 
+              A KRN Imports está no mercado há 20 anos, sendo referência no nicho de importação de peças de carros 
               e ajudando milhares de clientes a enfrentarem esse processo com bastante facilidade.
             </p>
             <p className="text-md text-gray-600 max-w-4xl mx-auto mt-4">
               Trabalhando com segurança e transparência, prezamos pela informação e qualidade para todo o nosso público. 
-              Portanto, se você deseja entender melhor a trajetória da Trade Imports de como importar peças de carro, 
+              Portanto, se você deseja entender melhor a trajetória da KRN Imports de como importar peças de carro, 
               basta continuar lendo!
             </p>
           </div>
@@ -58,7 +58,7 @@ const HowToBuy = () => {
                 de carros pode ser visto com certo receio, trabalhamos para tornar a experiência mais simples!
               </p>
               <p className="text-gray-600 leading-relaxed mb-4">
-                Além disso, caso se trate de uma concessionária, a Trade Imports pode emitir nota fiscal para a empresa, 
+                Além disso, caso se trate de uma concessionária, a KRN Imports pode emitir nota fiscal para a empresa, 
                 permitindo que a compra seja possível para mais pessoas.
               </p>
               <p className="text-gray-600 leading-relaxed">
@@ -68,12 +68,12 @@ const HowToBuy = () => {
             </Card>
           </div>
 
-          {/* O que a Trade Imports tem a oferecer? */}
+          {/* O que a KRN Imports tem a oferecer? */}
           <Card className="p-8 bg-white mb-8">
             <div className="flex items-center mb-6">
               <CheckCircle className="text-tradeblue mr-3" size={32} />
               <h2 className="text-2xl font-semibold text-tradedark">
-                O que a Trade Imports tem a oferecer?
+                O que a KRN Imports tem a oferecer?
               </h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -83,13 +83,13 @@ const HowToBuy = () => {
                   de carros e, assim, saibamos identificar exatamente o que ele precisa.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
-                  Além disso, a Trade Imports dispõe de segurança e rapidez na entrega dos produtos, oferecendo 
+                  Além disso, a KRN Imports dispõe de segurança e rapidez na entrega dos produtos, oferecendo 
                   alcance nacional para que todos tenham as peças que precisam diretamente em casa sem enfrentar burocracia.
                 </p>
               </div>
               <div>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Quando você confia nos serviços da Trade Imports, a melhor escolha de site para importar peças 
+                  Quando você confia nos serviços da KRN Imports, a melhor escolha de site para importar peças 
                   automotivas, seu automóvel agradece pela velocidade na entrega e qualidade dos produtos escolhidos.
                 </p>
                 <p className="text-gray-600 leading-relaxed font-semibold">

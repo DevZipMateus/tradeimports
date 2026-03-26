@@ -74,7 +74,7 @@ const Banner = () => {
               Confira Nossos Produtos
             </Button>
             <a 
-              href="https://www.tradeimports.com.br/loja2/" 
+              href="https://www.krnimports.com.br/loja2/" 
               target="_blank" 
               rel="noopener noreferrer"
             >

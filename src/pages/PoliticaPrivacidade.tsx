@@ -39,7 +39,7 @@ const PoliticaPrivacidade = () => {
               </h2>
             </div>
             <p className="text-gray-600 leading-relaxed">
-              Com a Trade Imports você armazena suas mercadorias numa área própria, segura e adequada.
+              Com a KRN Imports você armazena suas mercadorias numa área própria, segura e adequada.
             </p>
           </Card>
 
@@ -52,7 +52,7 @@ const PoliticaPrivacidade = () => {
               </h2>
             </div>
             <p className="text-gray-600 leading-relaxed mb-4">
-              O transporte de equipamentos sensíveis exige uma série de procedimentos e cuidados especiais. Com uma infra-estrutura completa, a Trade Imports domina, dimensiona e aplica as melhores técnicas de transportes necessárias para transportar suas cargas sensíveis de maneira tranquila, rápida e eficaz.
+              O transporte de equipamentos sensíveis exige uma série de procedimentos e cuidados especiais. Com uma infra-estrutura completa, a KRN Imports domina, dimensiona e aplica as melhores técnicas de transportes necessárias para transportar suas cargas sensíveis de maneira tranquila, rápida e eficaz.
             </p>
             <p className="text-gray-600 leading-relaxed mb-4">
               Trabalhamos com todos os tipos de cargas, especialmente equipamentos de aviação e aeronaves, partes e peças. Para isto contamos com veículos apropriados garantindo total segurança de sua carga:
@@ -74,7 +74,7 @@ const PoliticaPrivacidade = () => {
               </h2>
             </div>
             <p className="text-gray-600 leading-relaxed mb-4">
-              Dentro de seus variados níveis de fragilidade, volume e forma, cada item necessita de um tipo específico de embalagem. A Trade Imports oferece serviços de transportes com embalagens adequadas para cada tipo de carga transportando com extrema segurança sua carga, cumprindo com as condições de capacidade, peso e de utilização.
+              Dentro de seus variados níveis de fragilidade, volume e forma, cada item necessita de um tipo específico de embalagem. A KRN Imports oferece serviços de transportes com embalagens adequadas para cada tipo de carga transportando com extrema segurança sua carga, cumprindo com as condições de capacidade, peso e de utilização.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Planejamos e desenvolvemos embalagens especiais para equipamentos sensíveis dentro dos padrões internacionais.

@@ -13,7 +13,7 @@ const Contact = () => {
           <div className="mb-12 text-center">
             <h1 className="section-title">Entre em Contato</h1>
             <p className="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
-              Direto do Estados Unidos, Istanbul e Alemanha TradeImports é líder no mercado de autopeças de importados de Auto Luxo. 
+              Direto do Estados Unidos, Istanbul e Alemanha KRN Imports é líder no mercado de autopeças de importados de Auto Luxo. 
               Importação de autopeças e acessórios automotivo genuína e OEM direto do Estados Unidos, Alemanha, Inglaterra, Turquia entregue no Brasil. 
               O processo de desembaraço aduaneiro é ágil e eficaz!
             </p>
@@ -47,7 +47,7 @@ const Contact = () => {
                     <Mail className="text-tradeblue mt-1" size={20} />
                     <div>
                       <h3 className="font-semibold text-tradedark">E-mail</h3>
-                      <p className="text-gray-600">contato@tradeimports.com.br</p>
+                      <p className="text-gray-600">contato@krnimports.com.br</p>
                     </div>
                   </div>
                   
@@ -90,7 +90,7 @@ const Contact = () => {
                       WhatsApp
                     </a>
                     <a 
-                      href="mailto:contato@tradeimports.com.br"
+                      href="mailto:contato@krnimports.com.br"
                       className="bg-gray-600 text-white px-6 py-2 rounded hover:bg-gray-700 transition-colors font-medium"
                     >
                       Enviar E-mail
@@ -117,7 +117,7 @@ const Contact = () => {
                     allowFullScreen={true}
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Localização TradeImports"
+                    title="Localização KRN Imports"
                   ></iframe>
                 </div>
               </Card>

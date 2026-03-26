@@ -18,7 +18,7 @@ const AboutUs = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
             <div className="space-y-6">
               <p className="text-lg text-gray-700 leading-relaxed">
-                A <strong className="text-tradered">TRADE IMPORTS</strong> se especializou em atender a forte demanda de reposição de peças para carros importados de luxo.
+                A <strong className="text-tradered">KRN IMPORTS</strong> se especializou em atender a forte demanda de reposição de peças para carros importados de luxo.
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
@@ -26,7 +26,7 @@ const AboutUs = () => {
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
-                A <strong className="text-tradered">TRADE IMPORTS</strong> garante seu lugar de destaque no mercado pela facilidade dos serviços, menor preço e prazo de entrega, excelentes parcerias com fornecedores e fabricantes, alta qualidade das peças de reposição e eficiência no atendimento.
+                A <strong className="text-tradered">KRN IMPORTS</strong> garante seu lugar de destaque no mercado pela facilidade dos serviços, menor preço e prazo de entrega, excelentes parcerias com fornecedores e fabricantes, alta qualidade das peças de reposição e eficiência no atendimento.
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
@@ -43,7 +43,7 @@ const AboutUs = () => {
                   <h3 className="text-xl font-semibold text-tradedark">Compromisso com a Qualidade</h3>
                 </div>
                 <p className="text-gray-700">
-                  Não é por acaso que a TRADE IMPORTS é hoje uma reconhecida empresa do ramo de Importação e Autopeças, pois visa o constante aperfeiçoamento e melhoria dos serviços para a satisfação de seus clientes, parceiros e colaboradores.
+                  Não é por acaso que a KRN IMPORTS é hoje uma reconhecida empresa do ramo de Importação e Autopeças, pois visa o constante aperfeiçoamento e melhoria dos serviços para a satisfação de seus clientes, parceiros e colaboradores.
                 </p>
               </div>
               
@@ -55,7 +55,7 @@ const AboutUs = () => {
                   <h3 className="text-xl font-semibold text-tradedark">Alcance Nacional e Internacional</h3>
                 </div>
                 <p className="text-gray-700">
-                  Hoje em dia, além de despachar peças para todo o território nacional e Mercosul, a TRADE IMPORTS também fornece para clientes de varejo com a mesma excelência de atendimento, qualidade de produtos e prazo de entrega que oferece regionalmente.
+                  Hoje em dia, além de despachar peças para todo o território nacional e Mercosul, a KRN IMPORTS também fornece para clientes de varejo com a mesma excelência de atendimento, qualidade de produtos e prazo de entrega que oferece regionalmente.
                 </p>
               </div>
               
@@ -67,7 +67,7 @@ const AboutUs = () => {
                   <h3 className="text-xl font-semibold text-tradedark">Liderança de Mercado</h3>
                 </div>
                 <p className="text-gray-700">
-                  Com mais de 20 anos de experiência, a TRADE IMPORTS se consolidou como líder no segmento de peças para veículos importados, oferecendo um serviço completo que abrange desde a importação até a entrega final em todo o Brasil.
+                  Com mais de 20 anos de experiência, a KRN IMPORTS se consolidou como líder no segmento de peças para veículos importados, oferecendo um serviço completo que abrange desde a importação até a entrega final em todo o Brasil.
                 </p>
               </div>
             </div>

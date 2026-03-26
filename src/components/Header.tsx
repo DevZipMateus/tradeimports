@@ -22,7 +22,7 @@ const Header = () => {
             <Link to="/" className="block">
               <img 
                 src="/lovable-uploads/07606789-617c-474a-984b-5aae0432ac4a.png"
-                alt="Trade Imports Logo" 
+                alt="KRN Imports Logo" 
                 className="h-16 md:h-20 lg:h-24" 
               />
             </Link>
@@ -51,7 +51,7 @@ const Header = () => {
             </a>
 
             <a 
-              href="https://youtube.com/@tradeimports?si=jmf9rLYPY26-JGyz" 
+              href="https://youtube.com/@krnimports?si=jmf9rLYPY26-JGyz" 
               target="_blank"
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-red-600 text-white px-3 py-1 rounded-full hover:bg-red-700 transition-colors text-sm animate-pulse"
@@ -129,7 +129,7 @@ const Header = () => {
                 </a>
 
                 <a 
-                  href="https://youtube.com/@tradeimports?si=jmf9rLYPY26-JGyz" 
+                  href="https://youtube.com/@krnimports?si=jmf9rLYPY26-JGyz" 
                   target="_blank"
                   rel="noopener noreferrer" 
                   className="flex items-center gap-2 bg-red-600 text-white px-3 py-1.5 rounded-full hover:bg-red-700 transition-colors w-fit animate-pulse"
