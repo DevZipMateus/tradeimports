@@ -23,13 +23,13 @@ const FormasPagamento = () => {
               </h2>
             </div>
             <p className="text-gray-600 leading-relaxed mb-4">
-              No processo de importação sua carga é devidamente embalada e armazenada de acordo com as normas da ANAC. A Trade Imports faz todo o processo, desde a coleta, documentação, reserva com a companhia aérea ou marítima, armazenagem, estufagem, containers e entregas, além de trazer cargas aéreas e marítimas de qualquer lugar do mundo.
+              No processo de importação sua carga é devidamente embalada e armazenada de acordo com as normas da ANAC. A KRN Imports faz todo o processo, desde a coleta, documentação, reserva com a companhia aérea ou marítima, armazenagem, estufagem, containers e entregas, além de trazer cargas aéreas e marítimas de qualquer lugar do mundo.
             </p>
             <p className="text-gray-600 leading-relaxed mb-4">
-              No caso de cargas perecíveis, a equipe Trade Imports tem uma forte atuação junto ao Ministério da Agricultura, o que agiliza a emissão dos documentos necessários e preserva a qualidade dos produtos.
+              No caso de cargas perecíveis, a equipe KRN Imports tem uma forte atuação junto ao Ministério da Agricultura, o que agiliza a emissão dos documentos necessários e preserva a qualidade dos produtos.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              Para as cargas vivas, a Trade Imports emite certificados junto aos órgãos competentes, acompanhando o processo do embarque ao desembarque.
+              Para as cargas vivas, a KRN Imports emite certificados junto aos órgãos competentes, acompanhando o processo do embarque ao desembarque.
             </p>
           </Card>
 

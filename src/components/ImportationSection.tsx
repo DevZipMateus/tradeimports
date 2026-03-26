@@ -35,7 +35,7 @@ const ImportationSection = () => {
               </div>
               <h3 className="text-xl font-medium mb-3 text-white">Logística Completa</h3>
               <p className="text-gray-300">
-                Todos os documentos para envio ao aeroporto são elaborados pela TRADE IMPORTS e, através do nosso departamento de desembaraço aduaneiro, liberamos a carga para embarque ao destino.
+                Todos os documentos para envio ao aeroporto são elaborados pela KRN IMPORTS e, através do nosso departamento de desembaraço aduaneiro, liberamos a carga para embarque ao destino.
               </p>
             </div>
             

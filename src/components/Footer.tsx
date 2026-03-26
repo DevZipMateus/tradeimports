@@ -14,7 +14,7 @@ const Footer = () => {
               <Link to="/">
                 <img 
                   src="/lovable-uploads/07606789-617c-474a-984b-5aae0432ac4a.png" 
-                  alt="Trade Imports Logo"
+                  alt="KRN Imports Logo"
                   className="h-16" 
                 />
               </Link>
@@ -24,7 +24,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a 
-                href="https://youtube.com/@tradeimports?si=jmf9rLYPY26-JGyz" 
+                href="https://youtube.com/@krnimports?si=jmf9rLYPY26-JGyz" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-red-500 hover:text-red-400 transition-colors"
@@ -92,7 +92,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start space-x-3">
                 <Mail size={18} className="text-usablue mt-1" />
-                <p className="text-usasilver">contato@tradeimports.com.br</p>
+                <p className="text-usasilver">contato@krnimports.com.br</p>
               </li>
             </ul>
           </div>
@@ -100,7 +100,7 @@ const Footer = () => {
         
         <div className="border-t border-usasilver/30 mt-12 pt-6 text-usasilver text-sm">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p>© 2025 Trade Imports. Todos os direitos reservados.</p>
+            <p>© 2025 KRN Imports. Todos os direitos reservados.</p>
             <div className="flex flex-wrap justify-center md:justify-end space-x-4">
               <Link to="/termos-uso" className="hover:text-usablue transition-colors">Termos de Uso</Link>
               <Link to="/politica-privacidade" className="hover:text-usablue transition-colors">Política de Privacidade</Link>

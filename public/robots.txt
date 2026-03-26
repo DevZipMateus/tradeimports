@@ -7,7 +7,7 @@ Disallow: /private/
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://tradeimports.com.br/sitemap.xml
+Sitemap: https://krnimports.com.br/sitemap.xml
 
 # Specific directives for major search engines
 User-agent: Googlebot
